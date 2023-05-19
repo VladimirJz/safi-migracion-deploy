@@ -11,6 +11,14 @@ for path in pathlist:
      print(sql)
 
 
+# verificar si existe archivo de configuración
+    -- si no existe solicitar los datos para  crearla
+
+# Realizar conexion
+# Ejecutar la carga de los scripts
+$
+
+
 
 
 class  migration()
